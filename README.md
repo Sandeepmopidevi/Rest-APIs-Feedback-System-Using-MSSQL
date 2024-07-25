@@ -29,8 +29,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Sandeepmopidevi/feedback-system-mssql.git
-   cd feedback-system-mssql
+   git clone https://github.com/Sandeepmopidevi/Rest-APIs-Feedback-System-Using-MSSQL/
+   cd Rest-APIs-Feedback-System-Using-MSSQL
    ```
 
 2. **Configure the Database**
