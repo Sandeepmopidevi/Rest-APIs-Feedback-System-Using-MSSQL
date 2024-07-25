@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|s:\\csharp\\asp.net\\feedback management system using rest apis\\webappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|solutionrelative:webappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|s:\\csharp\\asp.net\\feedback management system using rest apis\\webappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|solutionrelative:webappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|s:\\csharp\\asp.net\\feedback management system using rest apis\\webappapi\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|solutionrelative:webappapi\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|s:\\csharp\\asp.net\\feedback management system using rest apis\\webappapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|solutionrelative:webappapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|s:\\csharp\\asp.net\\feedback management system using rest apis\\webappapi\\model\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|solutionrelative:webappapi\\model\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|s:\\csharp\\asp.net\\feedback management system using rest apis\\webappapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|solutionrelative:webappapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Temp\\WebAppAPI\\WebAppAPI\\Model\\AddEmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|s:\\csharp\\asp.net\\feedback management system using rest apis\\webappapi\\migrations\\20240725124338_feedback migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3057C8-22DE-4471-B532-4E72B12D1941}|WebAppAPI\\WebAppAPI.csproj|solutionrelative:webappapi\\migrations\\20240725124338_feedback migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\Temp\\WebAppAPI\\WebAppAPI\\Model\\UpdateEmployeeDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "WebAppAPI\\Controllers\\FeedbackController.cs",
+              "ToolTip": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "WebAppAPI\\Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:19:36.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppAPI\\Program.cs",
+              "ToolTip": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Program.cs",
+              "RelativeToolTip": "WebAppAPI\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:19:06.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAppAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAppAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:52:59.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "S:\\Temp\\WebAppAPI\\WebAppAPI\\Model\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Temp\\WebAppAPI\\WebAppAPI\\Model\\AddEmployeeDto.cs",
+              "ToolTip": "S:\\Temp\\WebAppAPI\\WebAppAPI\\Model\\AddEmployeeDto.cs",
+              "RelativeToolTip": "..\\..\\..\\Temp\\WebAppAPI\\WebAppAPI\\Model\\AddEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:50:48.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppAPI\\appsettings.json",
+              "ToolTip": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\appsettings.json",
+              "RelativeToolTip": "WebAppAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T05:09:14.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240725124338_Feedback migration.cs",
+              "DocumentMoniker": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Migrations\\20240725124338_Feedback migration.cs",
+              "RelativeDocumentMoniker": "WebAppAPI\\Migrations\\20240725124338_Feedback migration.cs",
+              "ToolTip": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Migrations\\20240725124338_Feedback migration.cs",
+              "RelativeToolTip": "WebAppAPI\\Migrations\\20240725124338_Feedback migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:43:38.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WebAppAPI\\Model\\User.cs",
+              "ToolTip": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Model\\User.cs",
+              "RelativeToolTip": "WebAppAPI\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:54:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Model\\Feedback.cs",
+              "RelativeDocumentMoniker": "WebAppAPI\\Model\\Feedback.cs",
+              "ToolTip": "S:\\CSharp\\ASP.NET\\Feedback Management System using REST APIs\\WebAppAPI\\Model\\Feedback.cs",
+              "RelativeToolTip": "WebAppAPI\\Model\\Feedback.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T04:43:39.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "S:\\Temp\\WebAppAPI\\WebAppAPI\\Model\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Temp\\WebAppAPI\\WebAppAPI\\Model\\UpdateEmployeeDto.cs",
+              "ToolTip": "S:\\Temp\\WebAppAPI\\WebAppAPI\\Model\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "..\\..\\..\\Temp\\WebAppAPI\\WebAppAPI\\Model\\UpdateEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T09:18:39.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
